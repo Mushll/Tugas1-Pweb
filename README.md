@@ -108,7 +108,7 @@ link blogspot: https://mushallin.blogspot.com/2026/09/foto-mushallina-dzikri-roz
       
       Saya adalah mahasiswa Departemen Teknik Informatika Institut Teknologi Sepuluh Nopember (ITS)
       angkatan 2025</div>
-    <!--tombol View CV & Hubungi saya-->
+   
   </div>
 
 </section>
@@ -143,7 +143,6 @@ link blogspot: https://mushallin.blogspot.com/2026/09/foto-mushallina-dzikri-roz
       <div class="cvport-contact-item">
         LinkedIn: <a href="#" target="_blank">https://www.linkedin.com/feed/</a>
       </div>
-      <!--GANTI DI SINI: u-->
     </div>
 
   </section>
