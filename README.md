@@ -7,7 +7,7 @@ link blogspot:
 
 ## Kode HTML
 
-'''
+```
 <style>
   .cvport * { box-sizing: border-box; }
   .cvport {
@@ -148,4 +148,4 @@ link blogspot:
 
   </section>
 </div>
-'''
+```
